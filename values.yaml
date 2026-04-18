@@ -3,3 +3,5 @@ deployment:
   replicas: 1
   imageName: "nginx"
   imageVersion: "latest"
+service:
+  type: "LoadBalancer"
