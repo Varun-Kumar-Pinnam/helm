@@ -1,5 +1,5 @@
 Deployment:
-  change-cause: "moving to latest"
+  changecause: "moving to latest"
   replicas: 1
   imageName: "nginx"
   imageVersion: "latest"
