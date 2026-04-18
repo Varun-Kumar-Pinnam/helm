@@ -7,8 +7,9 @@ spec:
   selector: 
   # lables are used as selectors
     project: roboshop
+    purpose: rs-demo
+    tier: frontend
     component: frontend
-    environment: dev
   ports:
   - protocol: TCP
     port: 80 # servie port
